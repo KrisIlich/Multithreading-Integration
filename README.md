@@ -1,7 +1,7 @@
 # D387 - Advanced Java Project
 
 ### Introduction
-This application was built for the purpose of final coursework for the D387 Advanced Java class at Western Governor's University.
+This application was built for the purpose of final coursework for the D387 Advanced Java class at Western Governor's University. Multithreading was a big focus for this project along with integrating other various changes.
 
 ### Installation
 1. **Unzip the file in the desired destination**
